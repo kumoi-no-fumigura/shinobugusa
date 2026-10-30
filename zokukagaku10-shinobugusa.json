@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shinobugusa",
  "yomi": "しのぶぐさ",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸後期",
+  "author": "八田知紀（1799〜1873）",
+  "desc": "薩摩出身の桂園派の歌人八田知紀の家集。嵐山に遊んだ折々の歌に始まり、文政から天保末までの歌を収めると本文にいう。"
+ },
  "editions": [
   {
    "pid": "993388",
